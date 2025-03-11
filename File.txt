@@ -1,4 +1,6 @@
-1. Kullanıcı dostu arayüz  
+1. Hızlı performans   
 2. Çevrimdışı kullanım desteği  
 3. Çoklu dil desteği  
 4. Karanlık mod desteği
+
+
